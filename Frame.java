@@ -1,4 +1,4 @@
-package compress;
+package inniki;
 
 import java.awt.*;  
 class First extends Frame{  
